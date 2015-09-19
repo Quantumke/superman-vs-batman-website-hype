@@ -23,8 +23,25 @@
   background: url(../img/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 695px;
-    
-    
-    
+    height: 795px;
+}
+.timer{
+position: absolute;
+    top: 200px;
+    font-family: unifrakturcook;
+}
+.logo{
+position: absolute;
+    top: 10px;
+    color: white;
+   font-family: AC Filmstrip;
+ font-size: 65px;
+}
+.slogan{
+position: absolute;
+    top: 300px;
+    font-family: AC filmstrip;
+    color: white;
+    font-size: 60px;
+
 }
