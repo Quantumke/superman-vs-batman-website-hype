@@ -77,8 +77,8 @@ height: 300px;
 }
 .about-text{
 height: 300px;
+text-align: justify;
 
-    text-align: center;
 }
 
 .ratings{
@@ -129,7 +129,7 @@ a#rotator img:hover {
 .actors{
 
     width: 100%;
-    height: 600px;
+    height: 650px;
 }
 .actor-prof{
 
